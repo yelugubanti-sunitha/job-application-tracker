@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JOB TRACKER</title>
+    <title>Job Application Tracker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+<header>
+    <h1>Job Application Tracker</h1>
+    <p>Track all your job applications in one place</p>
+  </header>
+
+  
+  <section class="job-form">
+    <h2>Add New Job</h2>
+
+    <form id="jobForm">
+  <input type="text" id="company" placeholder="Company Name" required>
+
+  <input type="text" id="role" placeholder="Job Role" required>
+
+  <select id="status">
+    <option value="Applied">Applied</option>
+    <option value="Interview">Interview</option>
+    <option value="Rejected">Rejected</option>
+    <option value="Selected">Selected</option>
+  </select>
+
+  
+  <input type="file" id="resume" accept=".pdf,.doc,.docx">
+
+  <button type="submit">Add Job</button>
+</form>
+
+  </section>
+
+  
+  <section class="job-list">
+    <h2>Your Applications</h2>
+
+    <div id="jobContainer">
+      
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
