@@ -15,8 +15,8 @@ Add company name, job role and application status
  JavaScript
 
  Screenshots:
-[Home Page](screenshots/home-page.png)
-[Add Job](screenshots/add-job.png)
-[Resume Upload](screenshots/resume-upload.png)
-[Data Persistence](screenshots/data-persistence.png)
+[home Page](screenshots/home-page.png)
+[add Job](screenshots/add-job.png)
+[resume Upload](screenshots/resume-upload.png)
+[data Persistence](screenshots/data-persistence.png)
 
