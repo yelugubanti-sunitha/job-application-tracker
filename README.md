@@ -1,10 +1,10 @@
-Job Application Tracker
 
-# Job Application Tracker
+
+Job Application Tracker
 
 A web application to track job applications efficiently.
 
-## Features
+Features
 - Add job applications
 - Status tracking (Applied, Interview, Selected, Rejected)
 - Dashboard analytics
@@ -13,14 +13,14 @@ A web application to track job applications efficiently.
 - CSV export
 - Dark mode
 
-## Technologies Used
+Technologies Used
 HTML
 CSS
 JavaScript
 Bootstrap
 Chart.js
 
-## Live Demo
+Live Demo
 https://yelugubanti-sunitha.github.io/job-application-tracker/
 
 
