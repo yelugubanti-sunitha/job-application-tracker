@@ -1,4 +1,3 @@
-
 Job Application Tracker
 
 A web application to track job applications efficiently.
