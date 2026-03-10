@@ -1,25 +1,28 @@
- Job Application Tracker
+Job Application Tracker
 
-A frontend-only job application tracker to manage job applications.
+# Job Application Tracker
 
- Features:
-Add company name, job role and application status
--> Upload resume (file name displayed)
--> Status-based color coding
--> Data saved using browser localStorage
--> Applications persist after page refresh
+A web application to track job applications efficiently.
 
- Tech Stack:
- HTML
- CSS
- JavaScript
+## Features
+- Add job applications
+- Status tracking (Applied, Interview, Selected, Rejected)
+- Dashboard analytics
+- Pie chart visualization
+- Search and filters
+- CSV export
+- Dark mode
 
-  Live : https://yelugubanti-sunitha.github.io/job-application-tracker/
+## Technologies Used
+HTML
+CSS
+JavaScript
+Bootstrap
+Chart.js
 
- Screenshots:
+## Live Demo
+https://yelugubanti-sunitha.github.io/job-application-tracker/
 
-[home Page](screenshots/home-page.png)
-[add Job](screenshots/add-job.png)
-[resume Upload](screenshots/resume-upload.png)
-[data Persistence](screenshots/data-persistence.png)
+
+
 
