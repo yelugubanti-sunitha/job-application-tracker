@@ -1,6 +1,7 @@
 Job Application Tracker
 
-A web application to track job applications efficiently.
+A job application management system designed to organize, track, and manage application records across different recruitment stages.
+
 
 Features
 - Add job applications
